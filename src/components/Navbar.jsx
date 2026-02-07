@@ -14,7 +14,7 @@ const Navbar = () => {
 
                 {/* Right Side Actions */}
                 <div className="flex items-center h-[25px]">
-                    <button className="bg-white pb-8 text-center text-black px-8 py-3 rounded-full font-bold text-md hover:bg-gray-100 transition-all shadow-md h-[35px] p-0">
+                    <button onClick={() => document.getElementById('how-it-works')?.scrollIntoView({ behavior: 'smooth' })} className="bg-white pb-8 text-center text-black px-8 py-3 rounded-full font-bold text-md hover:bg-gray-100 transition-all shadow-md h-[35px] p-0">
                         Get Started
                     </button>
                 </div>
