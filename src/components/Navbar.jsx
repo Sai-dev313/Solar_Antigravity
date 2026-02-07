@@ -14,7 +14,7 @@ const Navbar = () => {
 
                 {/* Right Side Actions */}
                 <div className="flex items-center h-[25px]">
-                    <button onclick="window.location.href='https://solar-credit.lovable.app/auth'" className="bg-white pb-8 text-center text-black px-8 py-3 rounded-full font-bold text-md hover:bg-gray-100 transition-all shadow-md h-[35px] p-0">
+                    <button onClick="window.location.href='https://solar-credit.lovable.app/auth'" className="bg-white pb-8 text-center text-black px-8 py-3 rounded-full font-bold text-md hover:bg-gray-100 transition-all shadow-md h-[35px] p-0">
                         Get Started
                     </button>
                 </div>
