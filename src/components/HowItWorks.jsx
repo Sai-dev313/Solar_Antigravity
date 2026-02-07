@@ -202,8 +202,8 @@ function Group() {
             <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Bold',sans-serif] font-bold h-[26px] justify-center leading-[0] left-0 not-italic text-[24px] text-black top-[25px] tracking-[-0.12px] w-[321px]">
                 <p className="leading-[1.45] whitespace-pre-wrap">{`Watch Video `}</p>
             </div>
-            <div className="absolute h-[214px] left-[0.5px] top-[48px] w-full" data-name="Embed 2">
-                <div className="embed overflow-clip size-full"><iframe width="380" height="214" src="https://www.youtube.com/embed/UcJmJoxA8r4?si=3UHhQYtsXZFKxBX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+            <div className="absolute h-[214px] left-[0.5px] top-[48px] w-[320px]" data-name="Embed 2">
+                <div className="embed overflow-clip size-full"><iframe width="320" height="180" src="https://www.youtube.com/embed/UcJmJoxA8r4?si=3UHhQYtsXZFKxBX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
             </div>
         </div>
     );
