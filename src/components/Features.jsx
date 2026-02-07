@@ -49,7 +49,7 @@ function Card() {
             <Text />
             <div aria-hidden="true" className="-translate-x-1/2 -translate-y-1/2 absolute h-[158px] left-[calc(50%+0.5px)] pointer-events-none rounded-[32px] top-[calc(50%+121px)] w-[218px]" data-name="Image" role="presentation">
                 {/* Replaced invalid Figma import with placeholder */}
-                <img alt="" className="absolute inset-0 max-w-none object-cover rounded-[32px] size-full" src={"https://github.com/Sai-dev313/Solar_Antigravity/blob/main/src/assets/ChatGPT%20Image%20Feb%206%2C%202026%2C%2002_59_44%20AM.png"} />
+                <img alt="" className="absolute inset-0 max-w-none object-cover rounded-[32px] size-full" src={imgImage} />
                 <div aria-hidden="true" className="absolute border-8 border-solid border-white inset-0 rounded-[32px] shadow-[0px_0px_4.4px_0px_rgba(0,0,0,0.06),0px_5px_19px_0px_rgba(0,0,0,0.08)]" />
             </div>
         </article>
