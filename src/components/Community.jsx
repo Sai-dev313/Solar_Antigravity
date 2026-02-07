@@ -163,7 +163,7 @@ function Author() {
     return (
         <div className="content-stretch flex gap-[16px] items-start relative shrink-0 w-full" data-name="Author">
             <div aria-hidden="true" className="relative rounded-[8px] shrink-0 size-[48px]" data-name="Image" role="presentation">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="https://raw.githubusercontent.com/Sai-dev313/Solar_Antigravity/19a34d67d298641b90f330947fbb044be2f1092d/src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
             </div>
             <Text />
         </div>
@@ -200,7 +200,7 @@ function Author1() {
     return (
         <div className="content-stretch flex gap-[16px] items-start relative shrink-0 w-full" data-name="Author">
             <div aria-hidden="true" className="relative rounded-[8px] shrink-0 size-[48px]" data-name="Image" role="presentation">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="https://raw.githubusercontent.com/Sai-dev313/Solar_Antigravity/19a34d67d298641b90f330947fbb044be2f1092d/src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
             </div>
             <Text1 />
         </div>
@@ -246,7 +246,7 @@ function Author2() {
     return (
         <div className="content-stretch flex gap-[16px] items-start relative shrink-0 w-full" data-name="Author">
             <div aria-hidden="true" className="relative rounded-[8px] shrink-0 size-[48px]" data-name="Image" role="presentation">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="https://raw.githubusercontent.com/Sai-dev313/Solar_Antigravity/19a34d67d298641b90f330947fbb044be2f1092d/src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
             </div>
             <Text2 />
         </div>
@@ -283,7 +283,7 @@ function Author3() {
     return (
         <div className="content-stretch flex gap-[16px] items-start relative shrink-0 w-full" data-name="Author">
             <div aria-hidden="true" className="relative rounded-[8px] shrink-0 size-[48px]" data-name="Image" role="presentation">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="https://raw.githubusercontent.com/Sai-dev313/Solar_Antigravity/19a34d67d298641b90f330947fbb044be2f1092d/src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
             </div>
             <Text3 />
         </div>
@@ -320,7 +320,7 @@ function Author4() {
     return (
         <div className="content-stretch flex gap-[16px] items-start relative shrink-0 w-full" data-name="Author">
             <div aria-hidden="true" className="relative rounded-[8px] shrink-0 size-[48px]" data-name="Image" role="presentation">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="https://raw.githubusercontent.com/Sai-dev313/Solar_Antigravity/19a34d67d298641b90f330947fbb044be2f1092d/src/assets/motion_blur_24dp_434343_FILL0_wght400_GRAD0_opsz24.svg" />
             </div>
             <Text4 />
         </div>
