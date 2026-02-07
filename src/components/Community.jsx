@@ -805,7 +805,7 @@ function QAuthor2() {
     return (
         <li className="content-stretch flex flex-col gap-[16px] items-center relative shrink-0" data-name="Author">
             <a aria-hidden="true" className="block cursor-pointer relative rounded-[8px] shrink-0 size-[48px]" data-name="Image" href="https://chatgpt.com" role="presentation">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="src/assets/logo_ai.png" />
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src="https://github.com/Sai-dev313/Solar_Antigravity/blob/main/src/assets/logo_ai.png?raw=true" />
             </a>
             <Name />
         </li>
