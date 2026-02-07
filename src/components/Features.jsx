@@ -1,9 +1,10 @@
 import React from 'react';
 
 // Placeholders for missing Figma assets
-const imgImage = "src/assets/ChatGPT Image Feb 6, 2026, 02_59_44 AM.png";
-const imgImage1 = "src/assets/ChatGPT Image Feb 6, 2026, 03_05_21 AM.png";
-const imgImage2 = "src/assets/ChatGPT Image Feb 6, 2026, 03_07_43 AM.png";
+const imgImage = "https://github.com/Sai-dev313/Solar_Antigravity/blob/main/src/assets/ChatGPT%20Image%20Feb%206,%202026,%2002_59_44%20AM.png?raw=true";
+const imgImage1 = "https://github.com/Sai-dev313/Solar_Antigravity/blob/main/src/assets/ChatGPT%20Image%20Feb%206,%202026,%2003_05_21%20AM.png?raw=true";
+const imgImage2 = "https://github.com/Sai-dev313/Solar_Antigravity/blob/main/src/assets/ChatGPT%20Image%20Feb%206,%202026,%2003_07_43%20AM.png?raw=true";
+
 
 function Header() {
     return (
